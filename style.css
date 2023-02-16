@@ -1,4 +1,5 @@
 .header {
+    position: fixed;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -166,3 +167,4 @@ img.wp-smiley,img.emoji {
   background: 0 0 !important;
   padding: 0 !important
 }
+
